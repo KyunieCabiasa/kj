@@ -1,1 +1,5 @@
-Selenium
+selenium
+webdriver-manager
+
+
+
